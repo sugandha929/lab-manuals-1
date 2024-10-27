@@ -1,1 +1,7 @@
 markdown: GFM
+plugins:
+  - jekyll-default-layout
+navigation:
+  - text: Documentation
+    internal: true
+    url: ./docs
