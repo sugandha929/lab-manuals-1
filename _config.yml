@@ -1,21 +1,3 @@
 markdown: kramdown
 remote_theme: just-the-docs/just-the-docs
 title: CG3207 Lab Manuals
-sidebar:
-  - label: Lab 1
-    children:
-      - lab-1-manual
-  - label: Lab 2
-    children:
-      - lab-2-manual
-  - label: Lab 3
-    children:
-      - lab-3-manual
-  - label: Lab 4
-    children:
-      - lab-4-manual
-      - compiled-code
-      - additional-instructions
-      - hazard
-      - interrupts
-      - pipeline
