@@ -9,7 +9,6 @@ id: lab-1-manual
 This lab aims to teach you the tools you will need for this module - namely:
 
 * Assembly language programming and simulation for the RISC-V architecture, and
-
 * HDL simulation and FPGA implementation
 
 This lab may seem quite confusing and tedious at first - this is normal, and nothing to be worried about. It's not directly related to what you're learning in the lectures, and some/all of the tools may be new to you. You might not fully understand the connection between all of the things that you do in this lab, and that's fine. It will all likely make sense once you start doing the subsequent labs, and if it doesn't (or if you just want to understand what you're doing), feel free to ask during the lab sessions, or in the [the discussions](https://github.com/nus-cg3207/lab-skeletons/discussions)) :) 
