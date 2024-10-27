@@ -1,4 +1,5 @@
 markdown: kramdown
+theme: jekyll-theme-minimal
 title: CG3207 Lab Manuals
 sidebar:
   - label: Lab 1
