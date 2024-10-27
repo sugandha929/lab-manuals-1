@@ -1,3 +1,6 @@
 markdown: GFM
 theme: jekyll-theme-minimal
-sidebar: -main
+navigation:
+  - text: Documentation
+    internal: true
+    url: ./docs
