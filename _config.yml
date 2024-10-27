@@ -1,5 +1,4 @@
 markdown: GFM
-theme: jekyll-theme-minimal
 navigation:
   - text: Documentation
     internal: true
