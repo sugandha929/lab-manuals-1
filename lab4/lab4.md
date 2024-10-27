@@ -1,5 +1,5 @@
 ---
-id: lab-4-manual
+nav_order: 7
 ---
 # Lab 4: (Near) Complete Processor + Pipelining + Bells + Whistles
 
