@@ -1,7 +1,6 @@
 markdown: GFM
 remote_theme: zendesk/jekyll-theme-zendesk-garden@v0.3.0
-sidebar: 
-  - lab-manuals
+sidebar:
   - label: Lab 1
     children:
       - lab-1-manual
