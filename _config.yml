@@ -1,5 +1,4 @@
 markdown: GFM
-title: CG3207 Computer Architecture
 remote_theme: zendesk/jekyll-theme-zendesk-garden@v0.3.0
 sidebar: 
   - lab-manuals
