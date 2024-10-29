@@ -1,3 +1,6 @@
+---
+nav_order: d
+---
 # Lab 3: Multiplication / Division units
 
 ## Tasks
