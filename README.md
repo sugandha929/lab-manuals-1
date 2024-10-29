@@ -1,5 +1,4 @@
 ---
-permalink: /root/README.md
 nav_order: 1
 ---
 # CG3207 Lab Manuals
