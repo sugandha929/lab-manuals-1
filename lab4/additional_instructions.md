@@ -1,4 +1,5 @@
 ---
+nav_order: 7.1
 id: additional-instructions
 ---
 # Lab 4 Enhancement: Implementing additional instructions
