@@ -1,5 +1,5 @@
 ---
-nav_order: d
+nav_order: 6
 ---
 # Lab 3: Multiplication / Division units
 
