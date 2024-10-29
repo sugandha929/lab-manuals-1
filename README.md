@@ -1,5 +1,6 @@
 ---
 nav_order: 1
+permalink: /
 ---
 # CG3207 Lab Manuals
 
