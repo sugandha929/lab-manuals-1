@@ -1,4 +1,5 @@
 ---
+title: Lab 4
 nav_order: 7
 ---
 # Lab 4: (Near) Complete Processor + Pipelining + Bells + Whistles
